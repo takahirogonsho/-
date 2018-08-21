@@ -1,3 +1,5 @@
-abcd x y z
+﻿abcd x y z
 
 lord
+
+集積点ならば触点である。
