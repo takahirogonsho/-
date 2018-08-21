@@ -1,0 +1,11 @@
+diff a/tuisi.txt b/tuisi.txt	(rejected hunks)
+@@ -1,3 +0,5 @@
+-abcd x y z
++﻿abcd x y z
+ 
+-lord
+\ No newline at end of file
++lord
++
++集積点ならば触点である。
+\ No newline at end of file
