@@ -3,3 +3,5 @@
 lord
 
 集積点ならば触点である。
+
+deadline
